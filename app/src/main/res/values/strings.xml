@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">ListRepo</string>
+    <string name="action_settings">Settings</string>
+    <string name="hello_text">Hello World!</string>
+    <string name="google_search">Recherche Web</string>
+    <string name="title_activity_group_list">Trening Repos</string>
+</resources>
